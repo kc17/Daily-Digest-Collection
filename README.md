@@ -1,4 +1,4 @@
-## Daily-Digest-Collection
+# 📚 Daily-Digest-Collection
 
 > 每日五篇文摘，記錄 coding 的每一天。
 
